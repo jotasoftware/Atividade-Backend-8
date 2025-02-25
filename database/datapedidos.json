@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nome": "Samsung",
+    "descricao": "Baita de um celular",
+    "status": "entregue"
+  },
+  {
+    "id": 2,
+    "nome": "Apple",
+    "descricao": "Baita de um celular",
+    "status": "entregue"
+  },
+  {
+    "id": 3,
+    "nome": "Nokia",
+    "descricao": "Baita de um celular",
+    "status": "entregue"
+  },
+  {
+    "id": 4,
+    "nome": "Motorola",
+    "descricao": "Baita de um celular",
+    "status": "entregue"
+  }
+]
